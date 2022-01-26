@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <locale>de</locale>
+    <texts>
+        <text name="input_BANKMANAGEMENT_OPEN" text="Öffne Bank Management"/>
+		<text name="BANKMANAGEMENT_TITLE" text="Bank Management"/>
+		<text name="BANKMANAGEMENT_ACTUALMONEYHEADERTEXT" text="Ändern Sie Ihren aktuellen Kontostand:"/>
+		<text name="BANKMANAGEMENT_ADDMONEYTEXT" text="Wählen Sie den gewünschten Geldbetrag:" />
+		<text name="BANKMANAGEMENT_NOFARM" text="Sie haben nicht ausreichende Berechtigungen für diese Farm!" />
+		<text name="BANKMANAGEMENT_COPYRIGHT" text="Copyright (c) 2022 by MX11" />
+		<text name="BANKMANAGEMENT_SUBTITLE_CAPITAL" text="Kapital" />
+		<text name="BANKMANAGEMENT_SUBTITLE_LOAN" text="Kredit" />
+		<text name="BANKMANAGEMENT_AMOUNTTEXT_TITLE" text="Kontostand:" />
+		<text name="BANKMANAGEMENT_AMOUNTTEXT_TOOLTIP" text="Dies ist Ihr aktueller Kontostand." />
+		<text name="BANKMANAGEMENT_EQUITYTEXT_TITLE" text="Eigenkapital:" />
+		<text name="BANKMANAGEMENT_EQUITYTEXT_TOOLTIP" text="Dies ist Ihr aktuelles errechnetes Eigenkapital." />
+		<text name="BANKMANAGEMENT_EQUITYLOANRATIOTEXT_TITLE" text="Eigenkapitalkreditquote:" />
+		<text name="BANKMANAGEMENT_EQUITYLOANRATIOTEXT_TOOLTIP" text="Dieser Wert zeigt Ihre aktuelle Eigenkapitalkreditquote (%)." />
+		<text name="BANKMANAGEMENT_LOANTEXT_TITLE" text="Kredit:" />
+		<text name="BANKMANAGEMENT_LOANTEXT_TOOLTIP" text="Ihr aktueller Kreditbetrag." />
+		<text name="BANKMANAGEMENT_LOANINTERESTRATETEXT_TITLE" text="Kreditzinssatz:" />
+		<text name="BANKMANAGEMENT_LOANINTERESTRATETEXT_TOOLTIP" text="Ihr aktueller Kreditzinssatz pro Ingametag (%)." />
+		<text name="BANKMANAGEMENT_MINLOANTEXT_TITLE" text="Kredituntergrenze:" />
+		<text name="BANKMANAGEMENT_MINLOANTEXT_TOOLTIP" text="Ihre aktuelle Kredituntergrenze." />
+		<text name="BANKMANAGEMENT_MAXLOANTEXT_TITLE" text="Kreditobergrenze:" />
+		<text name="BANKMANAGEMENT_MAXLOANTEXT_TOOLTIP" text="Ihre aktuelle Kreditobergrenze." />
+		<text name="BANKMANAGEMENT_CREDITAMOUNTCHANGETEXT_TITLE" text="Kontostand anpassen:" />
+		<text name="BANKMANAGEMENT_CREDITAMOUNTCHANGETEXT_TOOLTIP" text="Kontostand bei Kreditänderung anpassen." />
+    </texts>
+</l10n>

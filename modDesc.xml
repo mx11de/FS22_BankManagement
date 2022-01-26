@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="63">
+    <author>MX11</author>    
+	<version>1.0.0.0</version>
+	<title>
+        <en>Bank Management</en>    
+	</title>
+    <description>
+        <de>
+			<![CDATA[Dieser Mod ermöglicht die Verwaltung Ihrer Bankaufgaben.]]>
+		</de>
+		<en>
+			<![CDATA[This mod allows you to manage your banking tasks.]]>
+		</en>    
+	</description>
+    <multiplayer supported="true"/>
+    <iconFilename>modIcon.dds</iconFilename>    
+	<l10n filenamePrefix="i18n/locale"/>
+    <actions>
+        <action name="BANKMANAGEMENT_OPEN" />
+    </actions>
+    <inputBinding>
+        <actionBinding action="BANKMANAGEMENT_OPEN" >
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_m" />
+        </actionBinding>
+    </inputBinding>	
+	<extraSourceFiles>
+        <sourceFile filename="BankManagement.lua" />
+        <sourceFile filename="BankManagementGui.lua" />
+        <sourceFile filename="BankManagementEvent.lua" />
+        <sourceFile filename="BankManagementFarm.lua" />
+        <sourceFile filename="BankManagementUpdateClientEvent.lua" />
+    </extraSourceFiles>
+</modDesc>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <locale>en</locale>
+    <texts>
+        <text name="input_BANKMANAGEMENT_OPEN" text="Open Bank Management"/>
+		<text name="BANKMANAGEMENT_TITLE" text="Bank Management"/>
+		<text name="BANKMANAGEMENT_ACTUALMONEYHEADERTEXT" text="Change your current balance:"/>
+		<text name="BANKMANAGEMENT_ADDMONEYTEXT" text="Select the desired amount of money:" />
+		<text name="BANKMANAGEMENT_NOFARM" text="You do not have sufficient permissions on this farm!" />
+		<text name="BANKMANAGEMENT_COPYRIGHT" text="Copyright (c) 2022 by MX11" />
+		<text name="BANKMANAGEMENT_SUBTITLE_CAPITAL" text="Own capital" />
+		<text name="BANKMANAGEMENT_SUBTITLE_LOAN" text="Loan" />
+		<text name="BANKMANAGEMENT_AMOUNTTEXT_TITLE" text="Balance:" />
+		<text name="BANKMANAGEMENT_AMOUNTTEXT_TOOLTIP" text="This is your actual account balance." />
+		<text name="BANKMANAGEMENT_EQUITYTEXT_TITLE" text="Own capital:" />
+		<text name="BANKMANAGEMENT_EQUITYTEXT_TOOLTIP" text="This is your calculated own capital." />
+		<text name="BANKMANAGEMENT_EQUITYLOANRATIOTEXT_TITLE" text="Equity loan ratio:" />
+		<text name="BANKMANAGEMENT_EQUITYLOANRATIOTEXT_TOOLTIP" text=" value shows your current equity loan ratio (%)." />
+		<text name="BANKMANAGEMENT_LOANTEXT_TITLE" text="Loan:" />
+		<text name="BANKMANAGEMENT_LOANTEXT_TOOLTIP" text="Your current loan amount." />
+		<text name="BANKMANAGEMENT_LOANINTERESTRATETEXT_TITLE" text="Loan interest rate:" />
+		<text name="BANKMANAGEMENT_LOANINTERESTRATETEXT_TOOLTIP" text="Your current loan interest rate per ingame day (%)." />
+		<text name="BANKMANAGEMENT_MINLOANTEXT_TITLE" text="Credit lower limit:" />
+		<text name="BANKMANAGEMENT_MINLOANTEXT_TOOLTIP" text="Your current credit lower limit." />
+		<text name="BANKMANAGEMENT_MAXLOANTEXT_TITLE" text="Credit upper limit:" />
+		<text name="BANKMANAGEMENT_MAXLOANTEXT_TOOLTIP" text="Your current credit upper limit." />
+		<text name="BANKMANAGEMENT_CREDITAMOUNTCHANGETEXT_TITLE" text="Adjust account balance:" />
+		<text name="BANKMANAGEMENT_CREDITAMOUNTCHANGETEXT_TOOLTIP" text="Adjust account balance in case of credit change." />
+    </texts>
+</l10n>
