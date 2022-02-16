@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <GUI onOpen="onOpen" onClose="onClose" onCreate="onCreate" name="MoneyToolGUI">
     <GuiElement type="empty" profile="newLayer" />
-    <GuiElement type="bitmap" profile="bgBlack" />
+    <GuiElement type="bitmap" profile="dialogFullscreenBg" />
+    <GuiElement type="bitmap" profile="bgVignette"/>
+    <GuiElement type="bitmap" profile="bgGlowDialog" />
 	
     <GuiElement type="empty" profile="uiInGameMenuFrame">
         <!-- Static page header -->
