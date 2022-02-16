@@ -7,10 +7,14 @@
 	</title>
     <description>
         <de>
-			<![CDATA[Dieser Mod ermöglicht die Verwaltung Ihrer Bankaufgaben.]]>
+			<![CDATA[Vereinfache die Verwaltung deiner Bankaufgaben mit Bank Management.
+Du kannst einerseits mit dem Gameplay konform einen Kredit aufnehmen oder tilgen, sowie den Kreditzinssatz oder die Eigenkapitalquote anpassen.
+Auch ist es möglich den Kontostand und den aktuellen Kreditbetrag direkt anzupassen und somit dein Spielfortschritt direkt voranzubringen.]]>
 		</de>
 		<en>
-			<![CDATA[This mod allows you to manage your banking tasks.]]>
+			<![CDATA[Simplify managing your banking tasks with Bank Management.
+On the one hand, you can take out or repay a loan in accordance with the gameplay, as well as adjust the loan interest rate or the equity ratio.
+It is also possible to adjust the account balance and the current credit amount directly and thus advance your game progress directly.]]>
 		</en>    
 	</description>
     <multiplayer supported="true"/>
