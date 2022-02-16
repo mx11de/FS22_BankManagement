@@ -1,6 +1,6 @@
 # FS22_BankManagement
 This mod allows you to manage your banking tasks.
 
-![FS22_BankManagement_Screenshot_1](https://user-images.githubusercontent.com/52820390/154327948-89d978ef-739d-4ed4-bab6-f13640387d0d.png)
-![FS22_BankManagement_Screenshot_2](https://user-images.githubusercontent.com/52820390/154327974-c3ee19ab-08fe-4441-8771-218f904f0079.png)
-![FS22_BankManagement_Screenshot_3](https://user-images.githubusercontent.com/52820390/154327993-ffae9041-71c5-47da-9ded-4f050b80eddb.png)
+![fsScreen_2022_02_16_18_35_50](https://user-images.githubusercontent.com/52820390/154328146-e8a4337b-83a6-45c1-a7b7-d4eef1914813.png)
+![fsScreen_2022_02_16_18_36_43](https://user-images.githubusercontent.com/52820390/154328150-700b9ed1-b5f7-4eb7-9896-4411c7d07174.png)
+![fsScreen_2022_02_16_18_37_15](https://user-images.githubusercontent.com/52820390/154328160-8aa91325-0fd2-4278-91e9-ec75d61b9e45.png)
